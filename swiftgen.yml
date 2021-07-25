@@ -1,0 +1,10 @@
+#run 'swiftgen' in app project (WORKSPACE/App) and it will update the UIColors.swift file
+#Update colors using StandardColors.txt
+
+xcassets:
+  inputs:
+    - ./NewsArticle/Resources/Assets/
+  outputs:
+    - templateName: swift4
+      output: ./NewsArticle/Generated/SwiftGen/Assets/Assets.swift
+

@@ -1,0 +1,68 @@
+PODS:
+  - Cuckoo (1.4.2):
+    - Cuckoo/Swift (= 1.4.2)
+  - Cuckoo/Swift (1.4.2)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - Nimble (8.1.2)
+  - PKHUD (5.3.0)
+  - Quick (3.0.1)
+  - RxBlocking (5.1.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.2)
+  - RxTest (5.1.2):
+    - RxSwift (~> 5)
+  - SwiftGen (6.2.1)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - Cuckoo (~> 1.4.1)
+  - Kingfisher (~> 5.14.1)
+  - Nimble (~> 8.1.1)
+  - PKHUD (~> 5.0)
+  - Quick (~> 3.0.0)
+  - RxBlocking (~> 5.1.1)
+  - RxCocoa (~> 5.1.1)
+  - RxSwift (~> 5.1.1)
+  - RxTest (~> 5.1.1)
+  - SwiftGen (~> 6.2.1)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Cuckoo
+    - Kingfisher
+    - Nimble
+    - PKHUD
+    - Quick
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - SwiftGen
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Cuckoo: 4a54e93502b9ad06addcbd868ed203d96a64a299
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  Nimble: 3864815b4703c7ebffba875973c70e854489fbae
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  Quick: 947834f0d0f43fc933d0e9dd00086a76e783e4fb
+  RxBlocking: 5f700a78cad61ce253ebd37c9a39b5ccc76477b4
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 1e2e1f9570186967f617e49128ed26ccf1bafc8e
+  RxTest: 274549b747dca56f47c52c8991ec5cf797ecfe40
+  SwiftGen: 62e69d127507be1538d4263e137b2290cd6ab272
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: fdc7c2d0977a57bf7037af6dea0ea1ddb3a5b2e7
+
+COCOAPODS: 1.10.1
