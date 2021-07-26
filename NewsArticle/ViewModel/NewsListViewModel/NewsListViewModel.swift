@@ -55,12 +55,6 @@ final class NewsListViewModel: NewsListViewModelDataSource {
         self.getTopHeadlines(param)
     }
 
-//    func updateNews(withSource source: SourcesDTO) {
-//        titleSubject.onNext(source.name)
-//        let param: [String: String] = [ApiKey.sources: source.id]
-//        getTopHeadlines(param)
-//    }
-
     func getTopHeadlines(_ param: [String: String]? = nil) {
         newsNetworkHandler
             .getTopHeadlines(param)
